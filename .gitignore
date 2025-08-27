@@ -137,3 +137,9 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# genkit
+.genkit/*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
